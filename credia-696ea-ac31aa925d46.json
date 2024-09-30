@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "credia-696ea",
+  "private_key_id": "ac31aa925d46652a3e576e6cc6caa68470e7007e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBiG9w0BAQEFAASCBKADANBgkqhkcwggSjAgEAAoIBAQCHd1/9LFThx+J8\n2VKtHu3LnWtG4UsK+qXOm+3NDKl4jdw2cUd//zNcCyI76jQ1PA8L6Cy/PpetLzvi\n1nfbJ9hbywhjdvkThzHp0nJA4i8drjM1gUa0sOalcuOsiy0gL6Ob/xWBA1NgFXN+\nP9rr7KJD7/+EY8WdkJanWr5AIdikouV0RCtywDdWTUysyUc7MOUCf8n/tsGuKFZG\nq9DZ7UuRCqQDFOpOjRugjFwyizlyuqN+BC7UTAWlvb8Dj/VKUUIVLnY6MI8ddYWK\nKU/0MmB8la36fJe1+nnVaIZ9k62kH3M1KPDUvxldzZ4Uu75lciW1QDtcZvUX5VZw\nqioAoGnnAgMBAAECggEACC8FglQbHU1dLjardcrwXwR3tnSmJcJ7oXjZC7H6oPj3\noeWuW0Sts8n2ZlE2mIq0IVTZiITTAULhEXSXEWBzA89HBp8+2oJTLnF+C9O+OJhN\nVAD8e65Tg2Y769tikqxeFsP5EW4D1kJQKQMu32F7HLM90p/REJJAulkoiij2n1zO\nEiEDv0R+LADRg58M6+E0SbmNLDhb+hMWNGPQ5OBoPBaGiMXZKxaZQQiSh5yCzg4v\n+4lBQkC8HiJpJp3owNw0p1aYNmhcox0BtZEkw1B3TTEz1g6DghG23OR+6n1HKYZW\nQRH0feHpt7lSh0PdKwyRqKbY5YWY++gR7SWjK5XKBQKBgQC+KgaVPSpKMWsrtVOM\n54QwyBFmu7SzUCWP4IYDfFC57xbjsIDPl+UfMDo+b7AdONJvSON21VeGtb0FcGR1\nyZgQDMBL5I2llhSK4Sv0y0V/e8RYsnBlepzkQ39+5qsrGSmqGOVKGZa91+ckdDG+\nf2pTfFlfywqDVEp0/e7cFdj+ywKBgQC2XY7BAb691a+mUjeFp6uzo96tNVxGyZRc\nU1+UROcanYRSwiKxw3aTDkvqYztXM+IlHdL06n2VZM81jEpe8JlI6LLR/3jWUMvi\nbevjJ0tDrM1uHZ5o9hbnh8zUJIBSbUq93ZWX2ST/3ovyCkEkjj/8j3LrRyR7EGgq\nZyzIqOzh1QKBgCBUeMYKnhP7DuNhcpD0E29PtFWo9/G8YIZzf5U8H2VdFqEjMuMY\nSeXhhyVyS5jMPkqZM8LSRo0qfLZeA1ZbLbUc1dyRQNu0Bk4ONjDqFii0XA9QVveJ\nvv630wc6JEOxhXnbva+5Zf1kpXF3J7XhZ6xF6dP1axYk0HvPaDqWpEu9AoGBAJW5\npI3kT+VuPuNwFzO94OQBg75z1AouUIeo0A1csN2SO+TyjSej0oOUNlH/HOZQq7hL\njzsUFv2EIffV8e2W3lMU8lQlyuEyvuJt20DJryqmApgI61lDyrRXM51tRonmP3o5\nJivg1VbaMc4MC0XnILPMVs7Cvznm048U3Jj20F3tAoGAHSmtQJlzZh1QUIbP8Py8\nHUlYU0LapwkqUdgCgnrZ+z62foEXKK5J4OM+6FTFYGFRlP9v+yDC96Pxd4Vkhn+i\npeGABOGplSaBuTVLVXF+Vm32inadb/+UVuLy74mWlAB2rYh30I5jFNfcPGiRQ0XU\nV8Wze6KyvRPGUllqqbN2tm4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-storage@credia-696ea.iam.gserviceaccount.com",
+  "client_id": "580194382291711758305",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-storage%40credia-696ea.iam.gserviceaccount.com"
+}
